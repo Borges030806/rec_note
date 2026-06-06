@@ -1,0 +1,7 @@
+**环境：**
+torch==1.11.0
+timm==1.0.12
+scikit_learn==1.0.2
+tqdm==4.67.1
+pandas==1.4.1
+numpy==1.22.3
